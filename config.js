@@ -11,11 +11,11 @@ PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
 BOT_NAME: process.env.BOT_NAME || "KAVIYA MD",
 // add bot namw here for menu
-CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
+CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
 // make this true for custum emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🔥,❤️‍🩹,❤️,🩷,🧡,💛,💚,💙,🩵,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself 
-DELETE_LINKS: process.env.DELETE_LINKS || "false",
+DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "+94776078258",
 // add your bot owner number
@@ -43,9 +43,9 @@ MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
 ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
-AUTO_VOICE: process.env.AUTO_VOICE || "TRUE",
+AUTO_VOICE: process.env.AUTO_VOICE || "true",
 // make true for send automatic voices
-AUTO_STICKER: process.env.AUTO_STICKER || "false",
+AUTO_STICKER: process.env.AUTO_STICKER || "true",
 // make true for automatic stickers 
 AUTO_REPLY: process.env.AUTO_REPLY || "true",
 // make true or false automatic text reply 
