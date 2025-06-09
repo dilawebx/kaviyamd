@@ -19,7 +19,7 @@ cmd({
       'image': {
         'url': "https://files.catbox.moe/lph7xd.jpg"
       },
-      'caption': "  *⟣────────────⟢*\n    *[ • Developer: 🔥DILA🔥 ]*\n *⟣────────────•⟢*\n              \n      *⟣┈───────────────⟢*\n            🗂️ *REPOSITORY*\n       https://github.com\n      \n      *⟣┈───────────────•*\n            🔗 *PROJECT NAME*\n           KAVIYA MD W.A BOT\n      \n      *⟣┈───────────────•*\n             👨‍💻 *FOLLOW MY GITHUB*\n     https://github.com/\n       \n      *⟣┈───────────────•*\n             🧮 *RELEASE DATE*\n            15 jun 2025 \n       \n      *⟣┈───────────────•*\n            👨‍💻 *PAIR CODE* \n      https://SOON  \n      *⟣┈───────────────•*\n           🎀 *SUPPORT CHANNEL*\n      https://whatsapp.com/SOON* \n      *⟝┈───────────────⟞*\n        *⟣────────────•⟢*\n    ".trim()
+      'caption': "  *⟣────────────⟢*\n    *[ • Developer: 🔥DILA🔥 ]*\n *⟣────────────•⟢*\n              \n      *⟣┈───────────────⟢*\n            🗂️ *REPOSITORY*\n       https://github.com\n      \n      *⟣┈───────────────•*\n            🔗 *PROJECT NAME*\n           SIMI MD W.A BOT\n      \n      *⟣┈───────────────•*\n             👨‍💻 *FOLLOW MY GITHUB*\n     https://github.com/\n       \n      *⟣┈───────────────•*\n             🧮 *RELEASE DATE*\n            15 jun 2025 \n       \n      *⟣┈───────────────•*\n            👨‍💻 *PAIR CODE* \n      https://SOON  \n      *⟣┈───────────────•*\n           🎀 *SUPPORT CHANNEL*\n      https://whatsapp.com/SOON* \n      *⟝┈───────────────⟞*\n        *⟣────────────•⟢*\n    ".trim()
     }, {
       'quoted': _0x3bc605
     });
