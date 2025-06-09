@@ -24,15 +24,15 @@ cmd({
     }
     const _0x5ad0e2 = _0x541c7c.user.id.split(':')[0x0];
     if (_0x112bfc !== _0x5ad0e2) {
-      return _0x1cd54a("【𝐁.𝐌.𝐁】💥-𝐗𝐌𝐃\n\n】Only the bot owner can use this command.");
+      return _0x1cd54a("【SIMI】💥-𝐌𝐃\n\n】Only the bot owner can use this command.");
     }
     if (!_0x119769) {
-      return _0x1cd54a("【𝐁.𝐌.𝐁】💥𝐗𝐌𝐃】\n\nI need to be an admin to execute this command.");
+      return _0x1cd54a("【SIMI】💥𝐌𝐃】\n\nI need to be an admin to execute this command.");
     }
     const _0x27054b = _0x561a47.participants;
     const _0x59ce1d = _0x27054b.filter(_0x31bd1b => !_0x4abe0f.includes(_0x31bd1b.id));
     if (_0x59ce1d.length === 0x0) {
-      return _0x1cd54a("【𝐁.𝐌.𝐁】💥𝐗𝐌𝐃】\n\nThere are no non-admin members to remove.");
+      return _0x1cd54a("【SIMI】💥𝐌𝐃】\n\nThere are no non-admin members to remove.");
     }
     _0x1cd54a("Starting to remove " + _0x59ce1d.length + " non-admin members...");
     for (let _0x58a736 of _0x59ce1d) {
@@ -139,7 +139,7 @@ cmd({
         console.error("Failed to remove " + _0x447569.id + ':', _0x2fc4ea);
       }
     }
-    _0x477905("【𝐁.𝐌.𝐁】💥𝐗𝐌𝐃】\n\nSuccessfully removed all members, excluding the bot and bot owner, from the group.");
+    _0x477905("【SIMI】💥𝐌𝐃】\n\nSuccessfully removed all members, excluding the bot and bot owner, from the group.");
   } catch (_0x191e55) {
     console.error("Error removing members:", _0x191e55);
     _0x477905("An error occurred while trying to remove members. Please try again.");
