@@ -28,13 +28,13 @@ const wordInfo = `
 📝 *Example*: ${example}
 🔗 *Synonyms*: ${synonyms}
 
-> *@ 💫 KAVIYA MD 💫*`;
+> *@ 💫 SIMI MD 💫*`;
 
                                  return reply(wordInfo);
                              } catch (e) {
                                  console.log(e);
                                  if (e.response && e.response.status === 404) {
-                                     return reply("🚫💫KAVIYA MD💫 Word not found. Please check the spelling and try again.");
+                                     return reply("🚫💫SIMI MD💫 Word not found. Please check the spelling and try again.");
                                  }
                                  return reply("⚠️ An error occurred while fetching the definition. Please try again later.");
                              }
