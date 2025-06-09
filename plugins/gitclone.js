@@ -49,7 +49,7 @@ cmd({
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
           'newsletterJid': "120363352087070233@newsletterr",
-          'newsletterName': "𝐁.𝐌.𝐁 GITHUB CLONE 🎃",
+          'newsletterName': "SIMI MD GITHUB CLONE 🎃",
           'serverMessageId': 0x8f
         }
       }
