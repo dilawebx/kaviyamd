@@ -14,18 +14,18 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     try {
         // Generate system status message
         const status = `
-╭──〔KAVIYA MD〕───·๏
+╭──〔SIMI MD〕───·๏
 ┃🛸┃• *⏳ Uptime*:  ${runtime(process.uptime())} 
 ┃🛸┃• *📟 Ram usage*: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}GB / ${(os.totalmem() / 1024 / 1024).toFixed(2)}TB
 ┃🛸┃• *⚙️ HostName*: ${os.hostname()}
 ┃🛸┃• *👨‍💻 Creator*: 𝙱.𝙼.𝙱-𝚇𝙼𝙳
 ┃🛸┃• *🧬 Version*: 1.0.0
 ╰──────────────┈⊷
-> © 𝘬𝘢𝘷𝘪𝘺𝘢-𝘮𝘥  𝘸𝘩𝘢𝘵𝘴𝘢𝘱𝘱 𝘣𝘰𝘵 𝘴𝘭🇱🇰"`;
+> © simi-𝘮𝘥  𝘸𝘩𝘢𝘵𝘴𝘢𝘱𝘱 𝘣𝘰𝘵 𝘴𝘭🇱🇰"`;
 
         // Send the status message with an image
         await conn.sendMessage(from, { 
-            image: { url: `https://i.ibb.co/201XgZ5f/SulaMd.jpg` },  
+            image: { url: `https://i.ibb.co/qMxMxF3R/dd9c34a6fedce7a1.jpg` },  
             caption: status,
             contextInfo: {
                 mentionedJid: [m.sender],
@@ -33,7 +33,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363382023564830@newsletter',
-                    newsletterName: 'KAVIYA MD🔥',
+                    newsletterName: 'SIMI MD🔥',
                     serverMessageId: 143
                 }
             }
