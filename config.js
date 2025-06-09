@@ -17,15 +17,15 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "+94776078258",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "+94760224138",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "KAVIYA MD",
+OWNER_NAME: process.env.OWNER_NAME || "SIMI MD",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© KAVIYA MD*",
+DESCRIPTION: process.env.DESCRIPTION || "*© SIMI MD*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/p9hyal.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/qMxMxF3R/dd9c34a6fedce7a1.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "KAVIYA MD IS ACTIVE AND ALIVE\n\n\nKEEP USING KAVIYA MD FROM DILA TECH INC⚡",
+LIVE_MSG: process.env.LIVE_MSG || "SIMI MD MD IS ACTIVE AND ALIVE\n\n\nKEEP USING KAVIYA MD FROM DILA TECH INC⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
