@@ -85,11 +85,11 @@ cmd({
 27. Revelation
 
 
-🇹🇿BY KAVIYA MD 🇹🇿
+🇹🇿BY SIMI MD 🇹🇿
 `;
 
         // Remplacer ce lien par l'URL de l'image que tu m'enverras
-        const imageUrl = "https://i.ibb.co/201XgZ5f/SulaMd.jpg"; // Remplace "TON_LIEN_IMAGE_ICI" par ton lien d'image
+        const imageUrl = "https://i.ibb.co/qMxMxF3R/dd9c34a6fedce7a1.jpg"; // Remplace "TON_LIEN_IMAGE_ICI" par ton lien d'image
 
         // Vérifier si le message de la commande est correctement reçu
         if (!m.chat) {
